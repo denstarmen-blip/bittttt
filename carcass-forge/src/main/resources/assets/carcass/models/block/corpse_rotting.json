@@ -1,0 +1,16 @@
+{
+  "textures": {
+    "all": "minecraft:block/mud",
+    "particle": "minecraft:block/mud"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 0.5, 16],
+      "faces": {
+        "up":   { "texture": "#all" },
+        "down": { "texture": "#all" }
+      }
+    }
+  ]
+}

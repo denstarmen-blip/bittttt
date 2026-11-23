@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "rot=0": { "model": "carcass:block/corpse" },
+    "rot=1": { "model": "carcass:block/corpse_rotting" },
+    "rot=2": { "model": "carcass:block/corpse_rotten" }
+  }
+}

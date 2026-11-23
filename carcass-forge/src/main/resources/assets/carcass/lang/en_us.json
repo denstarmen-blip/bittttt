@@ -1,0 +1,6 @@
+{
+  "block.carcass.corpse": "Carcass",
+  "message.carcass.need_tool": "You need a knife to cut this up",
+  "message.carcass.rot1": "The carcass is starting to rot...",
+  "message.carcass.rot2": "The carcass is rotten. The meat has gone bad."
+}

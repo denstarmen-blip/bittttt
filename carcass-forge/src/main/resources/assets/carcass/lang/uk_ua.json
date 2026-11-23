@@ -1,0 +1,6 @@
+{
+  "block.carcass.corpse": "Труп",
+  "message.carcass.need_tool": "Потрібен ніж",
+  "message.carcass.rot1": "Труп починає гнити...",
+  "message.carcass.rot2": "Труп згнив. М'ясо зіпсувалось."
+}
